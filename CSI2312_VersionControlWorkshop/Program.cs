@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 // CSI2312 - Foundations of Software Engineering
 // 
 // Code for the git question of the final assessment - enjoy!
@@ -12,7 +12,7 @@ namespace CSI2312_FinalAssessment
         static void Task01(int[] data)
         {
             // modify the following line!
-            Console.WriteLine("This is the submission of: [YOUR NAME HERE]");
+            Console.WriteLine("This is the submission of: [Hayden Burnaby]");
             Console.WriteLine("press any key to continue");
             Console.ReadKey();
         }
